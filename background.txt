@@ -6,3 +6,4 @@
 3. -mach_init.d      
 -64bytes     
 -115 files
+- commands:"$ cd /etc""$ ls -A /mach_init.d | wc -l""$cd -l /mach_init.d"
