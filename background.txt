@@ -1,0 +1,8 @@
+1. -0x000000ff  decimal = 255     
+- 0xff000000  decimal = 4278190080
+
+2. 2 milliamperes
+
+3. -mach_init.d      
+-64bytes     
+-115 files
